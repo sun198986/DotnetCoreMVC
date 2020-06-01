@@ -1,0 +1,1 @@
+dotnetcore version 2.2
